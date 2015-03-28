@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LISTA ZADAŃ</string>
+    <string name="zadanie">Wpisz Zadanie do zrobienia</string>
+    <string name="zrobic">ZROBIĆ:</string>
+    <string name="dodaj">Dodaj do listy</string>
+    <string name="action_settings">Settings</string>
+</resources>
